@@ -1,0 +1,11 @@
+Acct  Last Name       First Name    Balance
+1     John            Joe            312.00
+2     Bala            h           234558.00
+3     Mala            Seven       931478.00
+5     Bala            M             1112.00
+44    Ashok           Baktha     9090909.00
+45    ramanujam       sathish        100.00
+55    Andres          John          1410.00
+65    Vimal           Kumar        50000.00
+66    ramanujam       sathish     450000.00
+88    Yuvaraj         Mathi        65550.00
